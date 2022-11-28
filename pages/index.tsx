@@ -12,7 +12,7 @@ const Home: NextPage = () => {
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
         <h1 className="text-6xl font-bold">
-          Sorry!
+          👋 Sorry!
         </h1>
         <p className="mt-3 text-2xl">
           My portfolio is currently under construction. <a className="text-blue-600" href="mailto:vivianchen@hey.com">Email me</a> to get in touch.
