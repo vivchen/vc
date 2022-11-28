@@ -11,7 +11,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="flex w-full flex-col items-center justify-center pt-20 pb-20 text-center">
-        <h1 className="text-5xl font-bold max-w-4xl">
+        <h1 className="text-5xl font-semibold max-w-4xl">
           I’m Vivian, a Creative Technologist, Senior Front-end Engineer, and maker based in Victoria, BC
         </h1>
       </main>
